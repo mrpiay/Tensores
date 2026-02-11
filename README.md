@@ -39,9 +39,9 @@ PyTorch es opcional (sección 13).
 2. O clónalo y ejecútalo localmente:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-jupyter notebook Tensors_Notebook.ipynb
+git clone https://github.com/mrpiay/Tensores.git
+cd Tensores
+jupyter notebook Tensores_Notebook.ipynb
 ```
 
 ## Autor
