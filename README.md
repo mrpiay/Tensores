@@ -2,7 +2,7 @@
 
 > De los escalares a los qubits entrelazados — una guía progresiva sobre tensores y su aplicación en aprendizaje computacional y computación cuántica.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Tensores_Notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrìay/Tensores/blob/main/Tensores_Notebook.ipynb)
 
 ## Descripción
 
